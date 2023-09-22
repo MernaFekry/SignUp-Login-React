@@ -83,6 +83,23 @@
     margin: 60px auto;
 }
 
+.submit-Form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.submit-Form button{
+    gap: 30px;
+    border-radius: 5px;
+    padding: 15px 25px;
+    background: #4c00b4;
+    color: #fff;
+    font-size: larger;
+    cursor: pointer;
+}
+
 .submit{
     display: flex;
     justify-content: center;
